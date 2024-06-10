@@ -41,3 +41,6 @@ $sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin
 
 $sudo docker run hello-world
 ![Screenshot (385)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/c80226fc-948c-4888-a427-f9db48371efb)
+
+then check the status of docker $systemctl status docker
+![Screenshot (386)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/e4d57470-3825-48eb-be45-734af5c790e0)
