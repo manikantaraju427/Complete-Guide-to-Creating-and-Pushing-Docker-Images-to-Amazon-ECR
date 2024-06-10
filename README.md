@@ -1,4 +1,4 @@
-## Complete Guide to Creating and Pushing Docker Images to Amazon ECR
+# Complete Guide to Creating and Pushing Docker Images to Amazon ECR
 
 # step 1:- first we need docker on top of ubuntu system
 
