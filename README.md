@@ -47,3 +47,4 @@ then check the status of docker $systemctl status docker
 
 # step2 :- install AWS CLI on my machine
 ![Screenshot (387)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/75fe3597-44b0-404c-89ac-00035215b8ae)
+
