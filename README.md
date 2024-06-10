@@ -1,4 +1,4 @@
-![Screenshot (394)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/79014274-48fb-4145-a519-03171c2991e6)![Screenshot (394)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/99e58eb3-0179-42d2-9854-445a5cb39529)![Screenshot (393)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/a709d1d4-44bd-41cf-b88a-8edbd019d494)# Complete Guide to Creating and Pushing Docker Images to Amazon ECR
+# Complete Guide to Creating and Pushing Docker Images to Amazon ECR
 
 # step 1:- first we need docker on top of ubuntu system
 
