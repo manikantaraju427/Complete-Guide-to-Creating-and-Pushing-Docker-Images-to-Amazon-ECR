@@ -112,6 +112,7 @@ Step 7: Push Docker Image to ECR
 ![Screenshot (406)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/ef022e35-db38-4a20-939f-275b73de8195)
 
 1 Retrieve an authentication token and authenticate your Docker client to your registry. Use the AWS CLI:
+
 aws ecr get-login-password — region ap-south-1 | docker login — username AWS — password-stdin 905418112275.dkr.ecr.ap-south-1.amazonaws.com
 ![Screenshot (407)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/3b27744f-b630-4b8b-89ff-39629a99bb32)
 
