@@ -44,3 +44,6 @@ $sudo docker run hello-world
 
 then check the status of docker $systemctl status docker
 ![Screenshot (386)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/e4d57470-3825-48eb-be45-734af5c790e0)
+
+# step2 :- install AWS CLI on my machine
+![Screenshot (387)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/75fe3597-44b0-404c-89ac-00035215b8ae)
