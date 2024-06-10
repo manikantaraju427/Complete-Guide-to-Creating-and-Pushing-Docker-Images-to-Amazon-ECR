@@ -34,7 +34,10 @@ $sudo apt-get update
 2: To install the latest version, run:
 
 $sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+![Screenshot (384)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/9f79d6b0-684f-4713-a2c8-276a9a65cf1b)
+
 
 3: Verify that the Docker Engine installation is successful by running the hello-world image.
 
 $sudo docker run hello-world
+![Screenshot (385)](https://github.com/manikantaraju427/Complete-Guide-to-Creating-and-Pushing-Docker-Images-to-Amazon-ECR/assets/125948783/c80226fc-948c-4888-a427-f9db48371efb)
